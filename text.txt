@@ -1,0 +1,4 @@
+Set-up ImageKit ID: x41yxagjw
+
+The chosen ImageKit ID will be used in asset URLs:
+https://ik.imagekit.io/x41yxagjw/path/to/myimage.jpg
