@@ -36,8 +36,9 @@ export default function DeletePostDialog({
         <DialogHeader>
           <DialogTitle>Delete post?</DialogTitle>
           <DialogDescription>
-            Are you sure you want to delete this post? This action cannot be
-            undone.
+            This can&#39;t be undone and it will be removed from your profile,
+            the timeline of any accounts that follow you, and from search
+            results.
           </DialogDescription>
         </DialogHeader>
         <DialogFooter>
