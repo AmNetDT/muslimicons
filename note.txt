@@ -1,0 +1,8 @@
+
+
+//google sign up setting
+http://localhost:3000/api/auth/callback/google
+
+
+//package.json -- added to production
+"postinstall": "prisma generate"
