@@ -11,6 +11,11 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "utfs.io",
+        pathname: "/a/**",
+      },
+      {
+        protocol: "https",
+        hostname: "u2rmerdvxs.ufs.sh",
         pathname: `/a/${process.env.NEXT_PUBLIC_UPLOADTHING_APP_ID}/*`,
       },
     ],
